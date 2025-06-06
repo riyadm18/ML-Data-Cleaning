@@ -1,5 +1,4 @@
 # ML-Data-Cleaning
-#  Machine Learning Data Cleaning & Preprocessing
 
 ##  Project Title
 **Robust Data Preprocessing for Real-World Datasets**
